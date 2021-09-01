@@ -3,15 +3,13 @@ def main():
     print("==== INICIO DO JOGO ====")
     print("=======================\n\n")
     qtd= 12
-    i= 0
     print("\nQTD INICIAL:", qtd)
     while(qtd>0):
         jogada= int(input("\nInsira qnts deseja retirar:"))
         if(jogada>3 or jogada<1 ):
             print("Número inválido\n")
         else:
-            nim= 4-jogada
-            print("\nNim tirou:", nim)
+            print("\nNim tirou:", 4-jogada)
             qtd -= 4
             print("\ntotal atual:",qtd)
     print("\nNim ganhou")
