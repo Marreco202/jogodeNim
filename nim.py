@@ -12,7 +12,7 @@ def main():
             print("\nNim tirou:", 4-jogada)
             qtd -= 4
             print("\ntotal atual:",qtd)
-    print("\nNim ganhou")
+    print("\nNim ganhou!")
     print("=======================")
     print("==== FIM DE JOGO ======")
     print("=======================\n\n")
