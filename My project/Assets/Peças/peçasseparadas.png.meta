@@ -124,12 +124,12 @@ TextureImporter:
       name: "pe\xE7asseparadas_0"
       rect:
         serializedVersion: 2
-        x: 112
-        y: 93
-        width: 34
-        height: 39
+        x: 105
+        y: 72
+        width: 56
+        height: 59
       alignment: 9
-      pivot: {x: 0.6231923, y: 0.18757004}
+      pivot: {x: 0.48604557, y: 0.4674419}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,12 +145,12 @@ TextureImporter:
       name: "pe\xE7asseparadas_1"
       rect:
         serializedVersion: 2
-        x: 120
-        y: 15
-        width: 35
-        height: 55
+        x: 91
+        y: 0
+        width: 65
+        height: 69
       alignment: 9
-      pivot: {x: 0.18450122, y: 0.13307203}
+      pivot: {x: 0.5271564, y: 0.30003303}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
